@@ -11,6 +11,7 @@
     font-size: 15px;
     font-weight: 700;
     line-height: 20px;
+    color: #fff;
 }
 .status-bar__icons img:not(:last-child){
     margin-right: 5px;
