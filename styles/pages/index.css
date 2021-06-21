@@ -4,3 +4,17 @@
 @import '../components/contacting-bar.css';
 @import '../components/nav-bar.css';
 @import '../components/footer-bar.css';
+
+body{
+    position: relative;
+}
+.wallpaper-01{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+.wallpaper-02{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
