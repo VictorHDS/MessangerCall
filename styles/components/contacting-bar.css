@@ -1,0 +1,26 @@
+.contacting-bar{
+    padding-left: 116px;
+    padding-right: 116px;
+    padding-top: 194px;
+    padding-bottom: 472px;
+}
+.contacting-bar__img{
+    width: 80px;
+    padding-bottom: 13px;
+}
+.contacting-bar__title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    padding-bottom: 4px;
+    color: #fff;
+}
+.contacting-bar__subtitle{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+}
